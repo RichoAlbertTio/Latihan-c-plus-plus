@@ -1,0 +1,4 @@
+Jelaskan konsep algoritma kelebihan dan kekurangannya dari metode pengurutan :
+1. Bubble Sort
+2. Quick Sort
+3. Selection Sort

@@ -1,0 +1,31 @@
+1.       
+Buatlah resume tentang metode-metode pengurutan
+(sorting) yaitu : Bubble Sort, Insertion Sort, Merge Sort, Quick Sort,
+Selection Sort, dan Shell Sort
+
+
+Penjelasan terdiri dari konsep, algoritma, simulasi,
+kelebihan dan kekurangannya dari tiap metode
+
+
+2.       
+Buatlah resume
+tentang teknik-teknik pencarian (searching). Penjelasan terdiri dari konsep,
+algoritma, simulasi, kelebihan dan kekurangannya dari tiap teknik.
+
+
+ 
+
+
+3.       
+Carilah
+algoritma yang digunakan dalam pencarian dan jelaskan untuk permasalahan
+seperti apa algorima tersebut digunakan (minimal 5 algoritma pencarian)
+
+
+4.       
+Buatlah fungsi untuk
+menyisipkan (insert) data pada algoritma pencarian berurutan apabila
+data tersebut tidak ditemukan. Data baru diletakkan pada posisi terakhir.
+Implementasikan fungsi ini dengan menggunakan struktur data array dan single
+linked list.
